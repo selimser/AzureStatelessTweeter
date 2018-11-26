@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TortoiseTweet.Functions", "FunctionApp1\TortoiseTweet.Functions.csproj", "{FE76DC2B-1FC1-4D5A-8075-14D1CF911512}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TortoiseTweet.Functions", "TortoiseTweet.Functions\TortoiseTweet.Functions.csproj", "{FE76DC2B-1FC1-4D5A-8075-14D1CF911512}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TortoiseTweet.Core", "TortoiseTweet.Core\TortoiseTweet.Core.csproj", "{5E33EF8A-E899-4358-9AD3-0A547342AA1E}"
 EndProject
